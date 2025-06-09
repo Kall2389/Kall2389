@@ -15,7 +15,7 @@
 
   #### Good with with all Headache,
   
-![Dr Kall (6)](https://github.com/InboraStudio/InboraStudio/assets/96738915/c460bce2-4d84-4628-b495-11f97b600eef)
+<!-- ![Dr Kall (6)](https://github.com/InboraStudio/InboraStudio/assets/96738915/c460bce2-4d84-4628-b495-11f97b600eef) -->
 
   
   ### also in C++, C#, Java
