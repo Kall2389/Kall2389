@@ -47,8 +47,8 @@ Salt Player (A local music player trusted and chosen by hundreds of thousands of
 </div>
 
 ## Discord
-<a href="https://discord.com/users/1090224458549182546"  align="left">
-    <img src="https://lanyard.cnrad.dev/api/1090224458549182546?theme=light&bg=F4BFC7&borderRadius=15px&animated=true&idleMessage=On%20the%20sky%20there%20is%20an%20angel%20in%20somewhere%20(.%20%E2%9D%9B%20%E1%B4%97%20%E2%9D%9B.)">
+<a href="https://discord.com/users/528829193748873216"  align="left">
+    <img src="https://lanyard.cnrad.dev/api/528829193748873216?theme=light&bg=F4BFC7&borderRadius=15px&animated=true&idleMessage=On%20the%20sky%20there%20is%20an%20angel%20in%20somewhere%20(.%20%E2%9D%9B%20%E1%B4%97%20%E2%9D%9B.)">
   </a>
 
 
